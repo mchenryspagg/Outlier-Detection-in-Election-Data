@@ -86,14 +86,13 @@ The heatmap shows the distribution of outlier scores across the polling units an
 
 ![image](https://github.com/user-attachments/assets/a4d88ad4-1e32-4b14-a140-9f4a88b82842)
 
-These polling units are considered outliers due to the large difference in the votes received by the party in these polling units in comparison with the votes received by the same party in all its neighboring polling units within 1km in the same LGA. The huge difference between the votes received at these polling units for these parties when compared with the average votes received by the same party for all its neighboring polling units within 1km in the same LGA is very large when compared with similar outlier figures for other polling units and that makes these three polling units the top 3 outliers and having the top three outlier scores from all polling units analyzed from the data.
-
-The result and the interpretation of this analysis is subject to other prevailing factors not measured in this analysis and should be subjected to further research and analysis.
+These polling units are considered outliers due to the significant difference in the votes received by a party compared to the votes that same party received in neighboring polling units within a 1 km radius in the same LGA. The disparity between the votes at these polling units and the average votes in nearby units is much larger than similar discrepancies in other polling units. This makes these three polling units the top outliers, with the highest outlier scores among all the units analyzed.
+The result and the interpretation of this analysis are subject to other prevailing factors not measured in this analysis and should be subjected to further research and analysis.
 
 
 
 ## Limitation of Study
-The major constraints experienced during the cause of this analysis are mainly sourcing for and obtaining the geographic coordinates (Latitude and longitude) for each polling unit. Out of 3679 polling units data obtained, only 3614 polling units geographic coordinates were obtained and the rest polling units dropped.
+The major constraints experienced during the course of this analysis are mainly sourcing for and obtaining the geographic coordinates (Latitude and longitude) for each polling unit. Out of 3679 polling units data obtained, only 3614 polling units geographic coordinates were obtained and the rest polling units dropped.
 
 
 ## Acknowledgements
